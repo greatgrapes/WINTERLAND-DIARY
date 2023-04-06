@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6AE17065-39EC-493E-8722-DBCBD267FB3E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "TodoItemTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - a26b56683358f057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.completed.getter : Swift.Bool"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - cad41302f435885b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.completed.setter : Swift.Bool"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - d33172352f88e48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.completed.modify : Swift.Bool"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - 24f811d5bdc139c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.completed.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - 3a19d078c6b12c4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; winterland.TodoItemTableViewCell"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "B0C8A9F8-A0EA-4C15-B267-7C89BE8D746E - 7d1044388157fb50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;winterland.TodoItemTableViewCell&gt;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1146938-2999-4BA6-960E-05743621FC75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TodoItemTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - d33184b96ddcf9ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - 35138ba099ee5df6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - 232d8e2e2a9ba0e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - 25fc32b4d8d479b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - 3a19d078c6b12caf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; winterland.TodoItemTableViewCell"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "F1146938-2999-4BA6-960E-05743621FC75 - 7d1044388157fbb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "winterland.TodoItemTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;winterland.TodoItemTableViewCell&gt;"
+                  moduleName = "winterland"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parkjinsung/Desktop/WINTERLAND23/SNTabBarDemo-Swift/TodoItemTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
